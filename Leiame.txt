@@ -1,0 +1,23 @@
+**************Teste de Software**********
+
+
+Prezado Professor Glauco
+
+Na disciplina de testes do professor Schaffer foi requisitado o teste da aplicação
+pronta, porém a grande maioria dos grupos não conseguiu concluir todos os casos
+de uso do software.
+
+No caso do grupo comemore foram eleitos 3 casos de uso do qual iremos 
+proceder os testes e a documentação de acordo com o requisitado pelo professor Schafer 
+
+São Eles:
+
+Cadastro de Funcionário
+Cadastro de Cliente
+Cadastro de Pedido
+
+A documentação segue anexo do que foi realizado na discplina de teste,que irá
+compor também a nota da disciplina do PI.
+
+Todos os documentos Relativos se encontram neste documento comprimido.
+
